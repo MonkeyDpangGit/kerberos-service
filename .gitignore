@@ -1,0 +1,27 @@
+/.idea
+rebel.xml
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+target/
+/.idea
+/.metadata
+/.settings
+
+# Package Files #
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+*.iml
+*.idea
+*.prefs
+.metadata
+.classpath
+.project
+.settings
